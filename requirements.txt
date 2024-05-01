@@ -1,0 +1,2 @@
+telethon==1.24.1
+pytgcalls==3.0.0
