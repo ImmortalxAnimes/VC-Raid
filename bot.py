@@ -4,7 +4,7 @@ from pytgcalls import PyTgCalls
 
 API_ID = os.environ.get("17271772")
 API_HASH = os.environ.get("897542330c90728e4e7fef57f42f9c79")
-BOT_TOKEN = os.environ.get("6931069312:AAER2u5Zw_KhM-ZxZPwBBJyWf146nzWGIZA")
+BOT_TOKEN = os.environ.get("AAER2u5xZPwBBJyWf146nzWGIZA")
 ASSISTANT_ID = ()
 
 app = Client("bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
