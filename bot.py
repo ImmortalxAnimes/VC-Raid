@@ -2,9 +2,9 @@ import os
 from pyrogram import Client, filters
 from pytgcalls import PyTgCalls
 
-API_ID = os.environ.get("17271772")
-API_HASH = os.environ.get("897542330c90728e4e7fef57f42f9c79")
-BOT_TOKEN = os.environ.get("AAER2u5xZPwBBJyWf146nzWGIZA")
+API_ID = os.environ.get("")
+API_HASH = os.environ.get("")
+BOT_TOKEN = os.environ.get("")
 ASSISTANT_ID = ()
 
 app = Client("bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
